@@ -1,2 +1,4 @@
+echo "Hello, world!"
+
 ifconfig
 
